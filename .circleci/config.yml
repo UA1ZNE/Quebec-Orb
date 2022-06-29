@@ -3,6 +3,7 @@ setup: true
 orbs:
   orb-tools: circleci/orb-tools@11.1
   shellcheck: circleci/shellcheck@3.1
+  test: k6io/test@1.2.3
 
 filters: &filters
   tags:
