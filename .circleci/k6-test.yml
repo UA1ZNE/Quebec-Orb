@@ -1,4 +1,4 @@
-version: '2.1'
+version: 2.1
 orbs:
  orb-tools: circleci/orb-tools@11.1
  k6io: k6io/test@1.2.3
